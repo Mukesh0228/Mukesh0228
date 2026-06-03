@@ -102,7 +102,7 @@ print(me.goal())
 - Implemented **Linear Regression** and **Random Forest** models; evaluated using R² score and error metrics.
 - Used **Pandas, NumPy, Matplotlib, Seaborn** for preprocessing and visualization.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukeshkumar)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukesh0228/House-price-prediction))
 
 ---
 
@@ -112,7 +112,7 @@ print(me.goal())
 - Performed data cleaning, EDA, and visualization on citizen health datasets using **Pandas, NumPy, Matplotlib, Seaborn**.
 - Analyzed health indicators: **BMI, blood pressure, diabetes, and heart disease risk factors** to generate data-driven insights.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukeshkumar)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukesh0228/Citizen-Health)
 
 ---
 
@@ -122,7 +122,7 @@ print(me.goal())
 - Built an interactive Power BI dashboard using **Power Query, DAX measures, slicers, and KPI cards** to analyze employee attrition trends.
 - Created visual reports to identify workforce patterns and support HR decision-making.
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukeshkumar)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukesh0228/IBM-HR)
 
 ---
 
