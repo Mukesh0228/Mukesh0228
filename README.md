@@ -1,289 +1,357 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:1F6FEB&text=Mukeshkumar%20M&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:00D9FF&text=Mukeshkumar%20M&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-# 📊 Data Analyst • Data Scientist • Data Engineer
 
-### Building End-to-End Data Pipelines • ML Models • Business Intelligence Dashboards
+# 👋 Hi, I'm Mukeshkumar M
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=1000&lines=Data+Analyst;Data+Scientist;Data+Engineer;Power+BI+Developer;Machine+Learning+Engineer;SQL+%26+Python+Developer;Turning+Raw+Data+Into+Business+Insights" />
 
-<br>
+## 🚀 Data Analyst | Data Scientist | Data Engineer
 
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20ML-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Specialization-Power%20BI%20%26%20Python-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-8.7%2F10-brightgreen?style=for-the-badge" />
+
+### Building Data-Driven & AI Powered Solutions
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00D9FF&center=true&width=800&lines=Data+Science+Trainee;Machine+Learning+Developer;Power+BI+Developer;Data+Engineer;Python+Developer"/>
+
 
 </div>
 
+
 ---
 
-# 💫 About Me
 
-```yaml
-Name        : Mukeshkumar M
-Degree      : B.E. – Computer Science and Engineering (2022–2026)
-College     : Sengunthar Engineering College (Autonomous), Tiruchengode
-CGPA        : 8.7 / 10
+# 👨‍💻 About Me
 
-Role        : Data Science Trainee @ QSpiders Bangalore
 
-Specializations:
-  - Data Analytics & Business Intelligence
-  - Machine Learning & Predictive Modeling
-  - SQL & Data Engineering
-  - Big Data (Hadoop, PySpark) & Data Warehousing (Snowflake)
-  - Power BI Dashboard Development
+```python
+class Mukeshkumar:
 
-Mission:
-  Transforming raw data into actionable insights that drive real business decisions.
+    def __init__(self):
+
+        self.education = "B.E Computer Science Engineering"
+        self.college = "Sengunthar Engineering College"
+        self.cgpa = 8.7
+
+        self.current_role = "Data Science Trainee @ QSpiders Bangalore"
+
+        self.skills = [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Power BI",
+            "Data Engineering"
+        ]
+
+    def goal(self):
+        return "Transforming data into intelligent decisions 🚀"
+
+
+me = Mukeshkumar()
+print(me.goal())
 ```
 
----
-
-# 🎯 Current Focus
-
-🟢 End-to-End Data Science & Analytics Projects
-
-🟢 Power BI Dashboard Design with DAX & Power Query
-
-🟢 Machine Learning Model Building with Scikit-learn
-
-🟢 SQL Query Optimization & Data Modeling
-
-🟢 Big Data Processing with Hadoop & PySpark
-
-🟢 Data Warehousing with Snowflake
 
 ---
 
-# ⚡ Technology Stack
 
-<div align="center">
+# 🎓 Education
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux&perline=6" />
 
-</div>
+🎓 **B.E Computer Science and Engineering**  
 
-<div align="center">
+🏫 Sengunthar Engineering College (Autonomous)  
+📍 Tiruchengode, Tamil Nadu  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+📅 2022 - 2026  
 
-</div>
+⭐ CGPA: **8.7 / 10**
+
+
 
 ---
 
-# 🧠 Core Expertise
 
-| Domain | Technologies |
-|---|---|
-| Programming | Python, SQL (SQL*Plus) |
-| Data Analytics & BI | Power BI, Power Query, DAX, Excel, EDA, Data Visualization |
-| Machine Learning | Regression, Classification, Random Forest, XGBoost, SVM, KNN, K-Means |
-| Database & Querying | Joins, Subqueries, CTEs, Window Functions, Data Modeling |
-| Big Data | Hadoop, HDFS, MapReduce, PySpark |
-| Data Warehousing | Snowflake, ETL Processing, Data Warehouse Concepts |
-| Python Libraries | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| Statistics | Descriptive & Inferential Statistics, Hypothesis Testing, Probability |
-| Developer Tools | VS Code, Jupyter Notebook, Google Colab, Git, GitHub |
+# 💼 Experience
+
+
+## 🧑‍💻 Data Science Trainee
+
+### QSpiders Bangalore
+
+
+- Developed 5+ Data Science & Analytics projects
+- Worked on 200,000+ record datasets
+- Data Cleaning & Transformation
+- ETL Workflow Development
+- Machine Learning Model Building
+- Power BI Dashboard Development
+- SQL Query Optimization
+- Git/GitHub Version Control
+
+
+Tech:
+
+`Python` `SQL` `Pandas` `Power BI` `Machine Learning`
+
+
+
+---
+
+
+# 🛠️ Technical Skills
+
+
+## 💻 Programming Languages
+
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+
+
 
 ---
 
-# 🏗️ Data Pipeline Architecture
 
-```text
-┌──────────────────────────────────┐
-│         Data Sources             │
-│   CSV • SQL DB • APIs • Excel    │
-└──────────────┬───────────────────┘
-               │
-               ▼
-┌──────────────────────────────────┐
-│         ETL / EDA Layer          │
-│  Pandas • NumPy • SQL • PySpark  │
-└──────────────┬───────────────────┘
-               │
-               ▼
-┌──────────────────────────────────┐
-│         ML / Analytics Layer     │
-│  Scikit-learn • Feature Eng.     │
-│  Regression • Classification     │
-└──────────────┬───────────────────┘
-               │
-               ▼
-┌──────────────────────────────────┐
-│     Data Warehousing Layer       │
-│      Snowflake • Star Schema     │
-└──────────────┬───────────────────┘
-               │
-               ▼
-┌──────────────────────────────────┐
-│       Reporting & BI Layer       │
-│   Power BI • DAX • Dashboards    │
-└──────────────────────────────────┘
-```
+## 📊 Data Analytics & BI
+
+
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
+
+
+✔ Data Cleaning  
+✔ EDA  
+✔ ETL  
+✔ Data Visualization  
+✔ DAX  
+✔ Power Query  
+
+
 
 ---
+
+
+## 🤖 Machine Learning
+
+
+![Scikit](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
+
+
+Algorithms:
+
+- Linear Regression
+- Logistic Regression
+- KNN
+- SVM
+- Naive Bayes
+- Decision Tree
+- Random Forest
+- XGBoost
+- K-Means
+
+
+Concepts:
+
+✔ Feature Engineering  
+✔ Model Evaluation  
+✔ GridSearchCV  
+✔ ML Pipelines
+
+
+
+---
+
+
+## 🐍 Python Libraries
+
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+
+![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
+
+
+
+---
+
+
+## ⚡ Big Data & Data Engineering
+
+
+![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge)
+
+![Spark](https://img.shields.io/badge/PySpark-orange?style=for-the-badge)
+
+
+- Hadoop
+- HDFS
+- MapReduce
+- PySpark
+- Snowflake
+- Data Warehouse
+- ETL Processing
+
+
+
+---
+
 
 # 🚀 Featured Projects
 
-## 🏠 House Price Prediction
-**Case Study:** Regression-based ML pipeline using feature engineering and ensemble models.
 
-- Achieved an **R² score of 0.87** on a dataset of **100,000+ records** using Python & Scikit-learn
-- Random Forest outperformed Linear Regression baseline by **22% on RMSE**
-- Reduced dimensionality by **35%** through correlation analysis and feature selection
+## 🏠 House Price Prediction ML
 
-**Tech:** `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Feature Engineering`
+
+Machine Learning Regression System
+
+
+Highlights:
+
+✔ 100,000+ Records  
+✔ R² Score: 0.87  
+✔ Random Forest Model  
+✔ 22% RMSE Improvement  
+✔ Feature Engineering  
+
+
+Tech Stack:
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+
 
 ---
+
 
 ## 🏥 Citizen Health Analysis
-**Case Study:** EDA and visualization on citizen health datasets to identify lifestyle risk factors.
 
-- Analyzed **15,000+ citizen records**; found patients with BMI > 30 had **2.4× higher heart disease risk**
-- Handled **12% missing values** across **20+ health indicator columns** achieving **95% clean dataset**
-- Generated **15+ visualizations** (heatmaps, distribution plots, box plots) communicating lifestyle trends
 
-**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+Healthcare Data Analytics
+
+
+Highlights:
+
+✔ 15,000+ Records  
+✔ Data Cleaning  
+✔ Statistical Analysis  
+✔ 15+ Visualizations  
+✔ Risk Pattern Detection
+
+
+Tech:
+
+`Python` `Pandas` `Seaborn`
+
+
+
+---
+
+
+## 👨‍💼 IBM HR Attrition Dashboard
+
+
+Power BI Analytics Dashboard
+
+
+Highlights:
+
+✔ 1470 Employee Records  
+✔ 10+ DAX Measures  
+✔ KPI Cards  
+✔ Data Modeling  
+✔ Interactive Reports
+
+
+Tech:
+
+`Power BI` `Power Query` `DAX`
+
+
 
 ---
 
-## 📊 IBM HR Attrition Dashboard
-**Case Study:** Interactive Power BI dashboard to analyze employee attrition trends.
-
-- Built interactive dashboard on **1,470 records with 35 HR attributes** enabling HR segment analysis
-- Created **10+ DAX measures** and KPI cards; identified Sales dept had **2.1× higher attrition vs R&D**
-- Reduced manual reporting efforts by approximately **30%** with dynamic slicers and filters
-
-**Tech:** `Microsoft Power BI` `Power Query` `DAX` `Data Modeling`
-
----
-
-# 💼 Internship Experience
-
-### 🔹 Data Science Trainee — QSpiders Bangalore *(Dec 2025 – Present)*
-
-- Developed **5+ end-to-end Data Science & Analytics projects** covering ingestion → preprocessing → modeling → reporting
-- Processed and cleaned datasets of **200,000+ records** using Pandas, NumPy, and SQL
-- Designed ETL workflows with feature engineering to improve dataset quality for ML applications
-- Optimized SQL queries with Joins, CTEs, and Window Functions for BI reporting
-- Maintained structured Data Science workflows using **Git & GitHub**
-
----
 
 # 🏆 Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| 🎓 Data Science Job Simulation | British Airways via Forage | May 2026 |
-| 🎓 Data Analytics Job Simulation | Quantium via Forage | Mar 2026 |
-| 🎓 GenAI Powered Data Analytics Job Simulation | Tata via Forage | Jul 2025 |
-| 🎓 TCS iON Career Edge – Young Professional | Tata Consultancy Services | Jul 2025 |
+
+🏅 Data Science Job Simulation - British Airways  
+
+🏅 Data Analytics Job Simulation - Quantium  
+
+🏅 GenAI Powered Data Analytics - Tata  
+
+🏅 TCS iON Career Edge
+
+
 
 ---
 
-# 🔥 GitHub Streak
+
+# 📈 GitHub Analytics
+
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mukesh0228&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mukesh0228&show_icons=true&theme=tokyonight"/>
+
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh0228&theme=tokyonight"/>
+
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh0228&layout=compact&theme=tokyonight"/>
+
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh0228&theme=github-dark&hide_border=true&radius=16" />
-
-</div>
 
 ---
 
-# 🏆 GitHub Summary
 
-<div align="center">
+# 🏆 Achievements
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukesh0228&theme=github_dark" />
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Mukesh0228&theme=algolia&no-frame=true"/>
 
----
-
-# 🌱 Currently Learning
-
-- Advanced Machine Learning (XGBoost, Ensemble Methods)
-- Cloud Data Platforms (Azure / AWS Fundamentals)
-- Deep Learning & NLP Basics
-- MLOps & Model Deployment
-- LangChain & RAG Pipelines
 
 ---
 
-# 🏆 Professional Strengths
 
-✅ End-to-End Data Analytics & EDA
+# 📊 Contribution Activity
 
-✅ Power BI Dashboard Development (DAX, Power Query)
 
-✅ Machine Learning Model Building & Evaluation
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh0228&theme=react-dark"/>
 
-✅ SQL Query Optimization & Data Modeling
 
-✅ ETL Workflow Design
-
-✅ Big Data Processing (Hadoop, PySpark)
-
-✅ Data Warehousing (Snowflake)
-
-✅ Statistical Analysis & Hypothesis Testing
-
-✅ Data Cleaning & Feature Engineering
 
 ---
+
 
 # 📫 Connect With Me
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/mukeshkumar-m-0211004mk/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://mukeshk-02.netlify.app/)
 
-<a href="mailto:mukeshk7660@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+[![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/Mukesh0228)
 
-<a href="https://github.com/Mukesh0228">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukeshkumar-m-0211004mk/)
 
-<a href="https://mukeshk-02.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=netlify" />
-</a>
-
-</div>
 
 ---
 
+
 <div align="center">
 
-### 💡 Turning Raw Data Into Actionable Insights Through Analytics & Machine Learning
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F6FEB,100:0D1117&section=footer"/>
+## 💡 "Analyze Data. Build Models. Create Impact."
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00D9FF,100:0D1117"/>
+
 
 </div>
