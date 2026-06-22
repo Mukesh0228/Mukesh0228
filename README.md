@@ -1,223 +1,357 @@
 <div align="center">
 
-<!-- Animated Banner GIF -->
-<img src="Assets/output.gif" alt="Mukeshkumar M – Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:00D9FF&text=Mukeshkumar%20M&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<br/>
 
-# 👋 Hi, I'm **Mukeshkumar M**
+# 👋 Hi, I'm Mukeshkumar M
 
-### 🚀 Data Analyst · Data Scientist · Data Engineer
 
-<p>
-  <em>Turning raw data into <strong>actionable intelligence</strong> — one pipeline at a time.</em>
-</p>
+## 🚀 Data Analyst | Data Scientist | Data Engineer
 
-<br/>
 
-<!-- Social Links -->
-[![GitHub](https://img.shields.io/badge/GitHub-Mukesh0228-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukesh0228)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukeshkumar--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukeshkumar-m-0211004mk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mukeshk--02.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mukeshk-02.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-mukeshk7660@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshk7660@gmail.com)
+### Building Data-Driven & AI Powered Solutions
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mukesh0228&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00D9FF&center=true&width=800&lines=Data+Science+Trainee;Machine+Learning+Developer;Power+BI+Developer;Data+Engineer;Python+Developer"/>
+
 
 </div>
 
+
 ---
 
-## 🧑‍💻 About Me
+
+# 👨‍💻 About Me
+
 
 ```python
-mukesh = {
-    "name"        : "Mukeshkumar M",
-    "role"        : "Data Science Trainee @ QSpiders Bangalore",
-    "education"   : "B.E. Computer Science & Engineering | CGPA: 8.7/10",
-    "college"     : "Sengunthar Engineering College (Autonomous), Tiruchengode",
-    "location"    : "Salem, Tamil Nadu 🇮🇳",
-    "open_to"     : ["Data Analyst", "Data Scientist", "Data Engineer"],
-    "interests"   : ["Machine Learning", "Business Intelligence", "Big Data", "ETL Pipelines"],
-    "fun_fact"    : "I let the data do the talking 📊",
-}
+class Mukeshkumar:
+
+    def __init__(self):
+
+        self.education = "B.E Computer Science Engineering"
+        self.college = "Sengunthar Engineering College"
+        self.cgpa = 8.7
+
+        self.current_role = "Data Science Trainee @ QSpiders Bangalore"
+
+        self.skills = [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Power BI",
+            "Data Engineering"
+        ]
+
+    def goal(self):
+        return "Transforming data into intelligent decisions 🚀"
+
+
+me = Mukeshkumar()
+print(me.goal())
 ```
 
----
-
-## ⚡ Currently
-
-| 🔭 Working On | Data Science & Analytics end-to-end projects using Python, SQL & Power BI |
-|---|---|
-| 🌱 Learning | PySpark, Snowflake, Cloud (AWS/GCP), Airflow, dbt, Docker |
-| 🤝 Open To | Entry-level Data roles — India (Bengaluru / Chennai) & Remote |
-| 💬 Ask Me About | Python · SQL · Power BI · ML Pipelines · EDA · Feature Engineering |
-| 📫 Reach Me | mukeshk7660@gmail.com |
 
 ---
 
-## 🛠️ Tech Stack & Skills
 
-### 🐍 Languages & Querying
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="48"/>
-</p>
+# 🎓 Education
 
-### 📊 Data Analytics & BI
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
 
-### 🤖 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+🎓 **B.E Computer Science and Engineering**  
 
-> **Algorithms:** Linear & Logistic Regression · Random Forest · Decision Tree · KNN · SVM · Naïve Bayes · K-Means · XGBoost · GridSearchCV
+🏫 Sengunthar Engineering College (Autonomous)  
+📍 Tiruchengode, Tamil Nadu  
 
-### 🗄️ Databases & Data Warehousing
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-</p>
+📅 2022 - 2026  
 
-> **Concepts:** Joins · Subqueries · CTEs · Window Functions · Data Modeling · ETL Processing · Star Schema
+⭐ CGPA: **8.7 / 10**
 
-### 🏗️ Big Data
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/MapReduce-FF6600?style=for-the-badge&logo=apache&logoColor=white" />
-</p>
 
-### 🧰 Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-</p>
 
 ---
 
-## 📂 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+# 💼 Experience
 
-### 🏠 House Price Prediction
-**ML · Regression Pipeline**
 
-- R² Score: **0.87** on 100K+ records
-- Random Forest **outperformed** Linear Regression by **22% RMSE**
-- Dimensionality reduced by **35%** via feature selection
-- **Tech:** Python · Scikit-learn · Pandas · Seaborn · ML Pipelines
+## 🧑‍💻 Data Science Trainee
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/Mukesh0228)
+### QSpiders Bangalore
 
-</td>
-<td width="33%" valign="top">
 
-### 🏥 Citizen Health Analysis
-**EDA · Statistical Analysis**
+- Developed 5+ Data Science & Analytics projects
+- Worked on 200,000+ record datasets
+- Data Cleaning & Transformation
+- ETL Workflow Development
+- Machine Learning Model Building
+- Power BI Dashboard Development
+- SQL Query Optimization
+- Git/GitHub Version Control
 
-- Analyzed **15,000+** citizen records
-- Handled **12% missing values**, standardized **20+** columns → **95%** clean dataset
-- BMI > 30 patients showed **2.4× higher** heart disease risk
-- **Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/Mukesh0228)
+Tech:
 
-</td>
-<td width="33%" valign="top">
+`Python` `SQL` `Pandas` `Power BI` `Machine Learning`
 
-### 📊 IBM HR Attrition Dashboard
-**Power BI · Business Intelligence**
 
-- Interactive dashboard on **1,470 records** with **35** HR attributes
-- **10+ DAX measures** — attrition rate, avg tenure, dept-level KPIs
-- Sales dept had **2.1× higher** attrition than R&D
-- **Tech:** Power BI · Power Query · DAX · Data Modeling
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/Mukesh0228)
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🏅 Certifications & Virtual Simulations
 
-| 🏆 Certification | 🏢 Issuer | 📅 Date |
-|---|---|---|
-| Data Science Job Simulation | ✈️ British Airways via Forage | May 2026 |
-| Data Analytics Job Simulation | 📊 Quantium via Forage | Mar 2026 |
-| GenAI Powered Data Analytics | 🤖 Tata (Tata iQ) via Forage | Jul 2025 |
-| TCS iON Career Edge – Young Professional | 🔵 Tata Consultancy Services | Jul 2025 |
+# 🛠️ Technical Skills
+
+
+## 💻 Programming Languages
+
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+
+
 
 ---
 
-## 📈 GitHub Analytics
+
+## 📊 Data Analytics & BI
+
+
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
+
+
+✔ Data Cleaning  
+✔ EDA  
+✔ ETL  
+✔ Data Visualization  
+✔ DAX  
+✔ Power Query  
+
+
+
+---
+
+
+## 🤖 Machine Learning
+
+
+![Scikit](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
+
+
+Algorithms:
+
+- Linear Regression
+- Logistic Regression
+- KNN
+- SVM
+- Naive Bayes
+- Decision Tree
+- Random Forest
+- XGBoost
+- K-Means
+
+
+Concepts:
+
+✔ Feature Engineering  
+✔ Model Evaluation  
+✔ GridSearchCV  
+✔ ML Pipelines
+
+
+
+---
+
+
+## 🐍 Python Libraries
+
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+
+![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
+
+
+
+---
+
+
+## ⚡ Big Data & Data Engineering
+
+
+![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge)
+
+![Spark](https://img.shields.io/badge/PySpark-orange?style=for-the-badge)
+
+
+- Hadoop
+- HDFS
+- MapReduce
+- PySpark
+- Snowflake
+- Data Warehouse
+- ETL Processing
+
+
+
+---
+
+
+# 🚀 Featured Projects
+
+
+## 🏠 House Price Prediction ML
+
+
+Machine Learning Regression System
+
+
+Highlights:
+
+✔ 100,000+ Records  
+✔ R² Score: 0.87  
+✔ Random Forest Model  
+✔ 22% RMSE Improvement  
+✔ Feature Engineering  
+
+
+Tech Stack:
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+
+
+---
+
+
+## 🏥 Citizen Health Analysis
+
+
+Healthcare Data Analytics
+
+
+Highlights:
+
+✔ 15,000+ Records  
+✔ Data Cleaning  
+✔ Statistical Analysis  
+✔ 15+ Visualizations  
+✔ Risk Pattern Detection
+
+
+Tech:
+
+`Python` `Pandas` `Seaborn`
+
+
+
+---
+
+
+## 👨‍💼 IBM HR Attrition Dashboard
+
+
+Power BI Analytics Dashboard
+
+
+Highlights:
+
+✔ 1470 Employee Records  
+✔ 10+ DAX Measures  
+✔ KPI Cards  
+✔ Data Modeling  
+✔ Interactive Reports
+
+
+Tech:
+
+`Power BI` `Power Query` `DAX`
+
+
+
+---
+
+
+# 🏆 Certifications
+
+
+🏅 Data Science Job Simulation - British Airways  
+
+🏅 Data Analytics Job Simulation - Quantium  
+
+🏅 GenAI Powered Data Analytics - Tata  
+
+🏅 TCS iON Career Edge
+
+
+
+---
+
+
+# 📈 GitHub Analytics
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mukesh0228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh0228&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
-<br/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mukesh0228&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh0228&theme=tokyonight&hide_border=true" width="70%" />
 
-<br/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukesh0228&theme=tokyonight"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mukesh0228&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh0228&layout=compact&theme=tokyonight"/>
+
 
 </div>
 
+
 ---
 
-## 🐍 Contribution Snake
+
+# 🏆 Achievements
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mukesh0228&theme=algolia&no-frame=true"/>
+
+
+---
+
+
+# 📊 Contribution Activity
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh0228&theme=react-dark"/>
+
+
+
+---
+
+
+# 📫 Connect With Me
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://mukeshk-02.netlify.app/)
+
+[![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/Mukesh0228)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukeshkumar-m-0211004mk/)
+
+
+---
+
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mukesh0228/Mukesh0228/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
----
 
-## 📊 This Week in Data
+## 💡 "Analyze Data. Build Models. Create Impact."
 
-<!--START_SECTION:waka-->
-> *Coming soon — WakaTime integration*
-<!--END_SECTION:waka-->
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00D9FF,100:0D1117"/>
 
-<div align="center">
-
-### 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-**"Without data, you're just another person with an opinion."** — W. Edwards Deming
-
-<br/>
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
 
 </div>
